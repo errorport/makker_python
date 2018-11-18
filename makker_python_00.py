@@ -40,7 +40,7 @@ def get_fibonacci_temporary(N):
 		vector.append(actual_number)
 	print("-- Futás vége.")
 	return vector #visszaadjuk a számsort egy vektorban
-	
+
 # nincs kimenet, hiszen csak egy függvényt hoztunk létre, nem futtattuk le azt.
 
 # 04 Egy kicsit csinosítva (refactor) a kódot, elhagyjuk az n_1 és n_2 változók használatát.
